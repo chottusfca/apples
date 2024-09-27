@@ -10,14 +10,14 @@
 /* add your font-family property to the body rule here */
 body {
     margin: 0 auto;
-    background-color: #ffe6ff;
+    background-color: #e7d50d;
     font-family: "Playfair Display", serif;
     max-width: 1000px;
 }
 
 /* TAG SELECTOR STYLES */
 header {
-    background-color: #B40CE8;
+    background-color: #e80c0c;
     border: 2px solid #840DFF;
     font-family: 'Monoton', cursive;
     width: 100%;
@@ -29,7 +29,7 @@ header {
 
 /* make the parent main selector a flebox, make it a row, make it wrap, and justify the content to space between*/
 main {
-    background-color: #bd9cbd;
+    background-color: #09460d;
     display: flex; 
     flex-direction: row;
     justify-content: space-around;
